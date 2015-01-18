@@ -1,6 +1,9 @@
 nectroid-bidi - branch of http://nectroid.googlecode.com/svn/
+
 GPLv3
+
 I am going to offer changes to kvance once I have made and tested them.
+
 -------------------
 Original copyright:
 Nectroid source code
